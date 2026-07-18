@@ -1,0 +1,6 @@
+{
+  "name": "Travel Planner Pro AI",
+  "description": "An interactive AI-powered travel planner with a playful hand-drawn journal aesthetic, featuring custom itineraries, boarding passes, scratch-off cards, and a smart suitcase checklist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
